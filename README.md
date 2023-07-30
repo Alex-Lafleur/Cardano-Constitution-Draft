@@ -41,3 +41,4 @@ governance action, shall not have the right to be re-elected as a member of the 
 
 The Constitutional Committee member during a ''state of no-confidence'' who has proven beyond reasonable doubt the absence of his involvement in what caused the community to ratify the ''Motion of no-confidence'' governance action, shall have the right to be re-elected as a member of the Constitutional Committee during the vote on ("New constitutional committee") governance action.
 
+### Section. 3.
