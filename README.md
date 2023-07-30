@@ -1,7 +1,8 @@
 ---
-Title: A Cardano Genesis Constitution Draft
+Title: A Cardano Constitution Genesis File
 Status: Proposed
 Category: Governance
+Network: Sancho Testnet
 Authors:
     - Mike Hornan <mike.hornan@able-pool.io>
     - Alexandre Lafleur <alexandre.lafleur@able-pool.io>
