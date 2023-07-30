@@ -28,5 +28,10 @@ All governance powers granted hereby will be vested in the Cardano Community, wh
 
 ### Section. 2.
 
-The Constitutional Committee of the Cardano blockchain shall be composed of any number of members from anywhere around the world, chosen by the  ("New constitutional committee")
-governance action thereof, for the duration of `termLimits` protocol parameter; and each Committe members shall have one vote.
+The Constitutional Committee of the Cardano blockchain shall be composed of more than `minCCSize` number of members from anywhere around the world, chosen by the  ("New constitutional committee") governance action thereof, for the duration of `termLimits` protocol parameter; and each Committe members shall have one vote.
+
+Immediately after they shall be assembled in Consequence of the ("New constitutional committee") governance action enactment, and they shall treat each others as equally as may be during every meetings.
+
+No Person shall be a Constitutional Committee member who shall not have attained the majority according to the law and standard of his respective country, and been one year an ADA Holder of the Cardano Blockchain, and who shall not, when elected, hold a position of political power in any country of the world.
+
+The Committee members shall not, under any circumstances, share their hot and cold keys with anyone, and no person shall vote on their behalf.
