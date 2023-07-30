@@ -24,7 +24,7 @@ this Constitution for the Cardano Blockchain of the World.
 
 ### Section. 1.
 
-All governance powers granted hereby will be vested in the Cardano Community, which will consist of a Constitutional Committee, Delegated Representative and Stake Pool Operators.
+All governance powers granted hereby will be vested by the Cardano Governance Representatives, which will consist of a Constitutional Committee, Delegated Representative and Stake Pool Operators.
 
 ### Section. 2.
 
@@ -35,3 +35,9 @@ Immediately after they shall be assembled in Consequence of the ("New constituti
 No Person shall be a Constitutional Committee member who shall not have attained the majority according to the law and standard of his respective country, and been one year an ADA Holder of the Cardano Blockchain, and who shall not, when elected, hold a position of political power in any country of the world.
 
 The Committee members shall not, under any circumstances, share their hot and cold keys with anyone, and no person shall vote on their behalf.
+
+The Constitutional Committee member during a ''state of no-confidence'' who was found, beyond a reasonable doubt, to be involved in what caused the community to ratify the ''Motion of no-confidence'' 
+governance action, shall not have the right to be re-elected as a member of the Constitutional Committee. Judgment in Cases of Impeachment shall not extend further than to removal from the Constitutional Committee, and disqualification to hold and enjoy any Office of Honor or Trust under the Cardano Blockchain.
+
+The Constitutional Committee member during a ''state of no-confidence'' who has proven beyond reasonable doubt the absence of his involvement in what caused the community to ratify the ''Motion of no-confidence'' governance action, shall have the right to be re-elected as a member of the Constitutional Committee during the vote on ("New constitutional committee") governance action.
+
