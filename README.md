@@ -22,3 +22,7 @@ this Constitution for the Cardano Blockchain of the World.
 ## Article. 1.
 
 ### Section. 1.
+
+All governance powers granted hereby will be vested in the Cardano Community, which will consist of a Constitutional Committee, Delegated Representative and Stake Pool Operators.
+
+### Section. 2.
