@@ -34,7 +34,7 @@ Immediately after they shall be assembled in Consequence of the ("New constituti
 
 No Person shall be a Constitutional Committee member who shall not have attained the majority according to the law and standard of his respective country, and been one year an ADA Holder of the Cardano Blockchain, and who shall not, when elected, hold a position of political power in any country of the world.
 
-The Committee members shall not, under any circumstances, share their hot and cold keys with anyone, and no person shall vote on their behalf.
+The Committee members shall not, under any circumstances, share their hot and cold keys with anyone, and no person shall vote on their behalf at any time while serving as a member of the Constitutional Committee.
 
 The Constitutional Committee member during a ''state of no-confidence'' who was found, beyond a reasonable doubt, to be involved in what caused the community to ratify the ''Motion of no-confidence'' 
 governance action, shall not have the right to apply as a member of the next Constitutional Committee. Judgment in Cases of Impeachment shall not extend further than to removal from the current Committee and the impossibility of being part of the next one under the Cardano Blockchain.
@@ -43,4 +43,10 @@ The Constitutional Committee member during a ''state of no-confidence'' who has 
 
 ### Section. 3.
 
-The Delegated Representatives shall be chosen at any time by the people of the Cardano Community and shall be registered as such in the Cardano BlockChain. They represent themselves and those who have delegated their stake to them in addition to the current delegation to stake pools for block production. 
+The Delegated Representatives shall be chosen at any time by the people of the Cardano Community, and shall be registered as such on the Cardano BlockChain. They represent themselves and those who have delegated their stake to them.
+
+The Delegated Representative can be a human or AI of any age without restrictions and shall be identified by a credential that can be either a verification key or a native/plutus script. 
+It is up to the delegator to choose his Delegated representative according to his personal criteria.
+
+
+
