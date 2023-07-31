@@ -24,7 +24,7 @@ this Constitution for the Cardano Blockchain of the World.
 
 ### Section. 1.
 
-All governance powers granted hereby will be vested by the Cardano Governance Representatives, which will consist of a Constitutional Committee, Delegated Representative and Stake Pool Operators.
+All governance powers granted hereby will be vested by the Cardano Governance Representatives, which will consist of a Constitutional Committee, Delegated Representatives and Stake Pool Operators.
 
 ### Section. 2.
 
@@ -37,8 +37,10 @@ No Person shall be a Constitutional Committee member who shall not have attained
 The Committee members shall not, under any circumstances, share their hot and cold keys with anyone, and no person shall vote on their behalf.
 
 The Constitutional Committee member during a ''state of no-confidence'' who was found, beyond a reasonable doubt, to be involved in what caused the community to ratify the ''Motion of no-confidence'' 
-governance action, shall not have the right to be re-elected as a member of the Constitutional Committee. Judgment in Cases of Impeachment shall not extend further than to removal from the Constitutional Committee, and disqualification to hold and enjoy any Office of Honor or Trust under the Cardano Blockchain.
+governance action, shall not have the right to apply as a member of the next Constitutional Committee. Judgment in Cases of Impeachment shall not extend further than to removal from the current Committee and the impossibility of being part of the next one under the Cardano Blockchain.
 
-The Constitutional Committee member during a ''state of no-confidence'' who has proven beyond reasonable doubt the absence of his involvement in what caused the community to ratify the ''Motion of no-confidence'' governance action, shall have the right to be re-elected as a member of the Constitutional Committee during the vote on ("New constitutional committee") governance action.
+The Constitutional Committee member during a ''state of no-confidence'' who has proven, beyond reasonable doubt, the absence of his involvement in what caused the community to ratify the ''Motion of no-confidence'' governance action, shall have the right to be re-elected as a member of the Constitutional Committee during the vote on ("New constitutional committee") governance action.
 
 ### Section. 3.
+
+The Delegated Representatives shall be chosen at any time by the people of the Cardano Community and shall be registered as such in the Cardano BlockChain. They represent themselves and those who have delegated their stake to them in addition to the current delegation to stake pools for block production. 
