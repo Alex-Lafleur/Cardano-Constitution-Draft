@@ -32,7 +32,7 @@ The Constitutional Committee of the Cardano blockchain shall be composed of more
 
 Immediately after they shall be assembled in Consequence of the ("New constitutional committee") governance action enactment, and they shall treat each others as equally as may be during every meetings.
 
-No Person shall be a Constitutional Committee member who shall not have attained the majority according to the law and standard of his respective country, and been one year an ADA Holder of the Cardano Blockchain, and who shall not, when elected, hold a position of political power in any country of the world.
+No Person shall be a Constitutional Committee member who shall not have attained the majority according to the law and standard of their respective country, and been one year an ADA Holder of the Cardano Blockchain, and who shall not, when elected, hold a position of political power in any country of the world.
 
 The Committee members shall not, under any circumstances, share their hot and cold keys with anyone, and no person shall vote on their behalf at any time while serving as a member of the Constitutional Committee.
 
