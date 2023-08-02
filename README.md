@@ -51,7 +51,9 @@ No Delegated Representative shall be required to identify themselves at any time
 
 ### Section. 4.
 
-The Stake Pool Operators shall represent themselves, the well-being of their stake pool and their delegates, and shall be registered as such on the Cardano Blockchain. 
+The Stake Pool Operators shall represent themselves, the well-being of their stake pool and their delegates. 
+
+The Stake Pool Operator can be of any age without restrictions, shall be registered as such on the Cardano Blockchain and shall be identified by their pool's ID, their cold verification key and signing key.
 
 ### Section. 5.
 
