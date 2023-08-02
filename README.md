@@ -43,7 +43,7 @@ The Constitutional Committee member during a ''state of no-confidence'' who has 
 
 ### Section. 3.
 
-The Delegated Representatives shall be chosen at any time by the people of the Cardano Community, and shall be registered as such on the Cardano BlockChain. They represent themselves and those who have delegated their stake to them.
+The Delegated Representatives shall be chosen at any time by the people of the Cardano Community, and shall be registered as such on the Cardano Blockchain. They represent themselves and those who have delegated their stake to them.
 
 The Delegated Representative can be a human or AI of any age without restrictions and shall be identified by a credential that can be either a verification key or a native/plutus script. 
 It is up to the delegator to choose his Delegated representative according to his personal criteria.
