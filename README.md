@@ -51,4 +51,11 @@ No Delegated Representative shall be required to identify themselves at any time
 
 ### Section. 4.
 
+The Stake Pool Operators shall represent themselves, the well-being of their stake pool and their delegates, and shall be registered as such on the Cardano Blockchain. 
 
+### Section. 5.
+
+The Times, Places and Manner of holding Elections for the Constitutional Committee, shall be prescribed on-chain by the ("New constitutional committee") governance action, its metadata and the protocol parameters values of the Governance group.
+
+The Constitutional Committee shall assemble at least once in every Year, and such Meeting location shall be determined unanimously by its members.
+No Constitutional Committee members shall have their cold keys in their possession during these meetings.
