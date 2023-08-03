@@ -74,3 +74,5 @@ The Cardano blockchain will make no laws regarding the establishment of religion
 
 The enumeration in the Constitution of certain rights should not be interpreted as denying or denigrating other rights retained by the people of the community.
 
+## Third Amendment
+
