@@ -48,5 +48,18 @@ The Delegated Representatives shall be chosen at any time by the people of the C
 The Delegated Representative can be a human or AI of any age without restrictions and shall be identified by a credential that can be either a verification key or a native/plutus script. 
 It is up to the delegator to choose his Delegated representative according to his personal criteria.
 
+## Article VII
+
+?????
+
+## First Amendment
+
+The Cardano blockchain will make no laws regarding the establishment of religion or prohibiting the free exercise of one; or restrict freedom of speech or of the press
+
+## Second Amendment
+
+The enumeration in the Constitution of certain rights should not be interpreted as denying or denigrating other rights retained by the people of the community.
+
+
 
 
