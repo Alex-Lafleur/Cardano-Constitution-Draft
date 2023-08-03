@@ -61,3 +61,16 @@ The Times, Places and Manner of holding Elections for the Constitutional Committ
 
 The Constitutional Committee shall assemble at least once in every Year, and such Meeting location shall be determined unanimously by its members.
 No Constitutional Committee members shall have their cold keys in their possession during these meetings.
+
+## Article VII
+
+?????
+
+## First Amendment
+
+The Cardano blockchain will make no laws regarding the establishment of religion or prohibiting the free exercise of one; or restrict freedom of speech or of the press
+
+## Second Amendment
+
+The enumeration in the Constitution of certain rights should not be interpreted as denying or denigrating other rights retained by the people of the community.
+
