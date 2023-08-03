@@ -68,7 +68,7 @@ No Constitutional Committee members shall have their cold keys in their possessi
 
 ## First Amendment
 
-The Cardano blockchain will make no laws regarding the establishment of religion or prohibiting the free exercise of one; or restrict freedom of speech or of the press
+The Cardano Governance Representatives shall not submit or vote in favor of any governance action that serves to promote the establishment of a religion or prohibiting the free exercise thereof;  or abridging the freedom of speech, or of the press; or the right of the community to submit governance actions and to petition the Governance Representatives for a redress of grievances.
 
 ## Second Amendment
 
