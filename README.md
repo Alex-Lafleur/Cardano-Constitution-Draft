@@ -24,7 +24,7 @@ this Constitution for the Cardano Blockchain of the World.
 
 ### Section. 1.
 
-All governance powers granted hereby will be vested by the Cardano Governance Representatives, which will consist of a Constitutional Committee, Delegated Representatives and Stake Pool Operators.
+All governance powers granted hereby will be vested by the Cardano Governance Bodies, which will consist of a Constitutional Committee, Delegated Representatives and Stake Pool Operators.
 
 ### Section. 2.
 
@@ -51,24 +51,24 @@ No Delegated Representative shall be required to identify themselves at any time
 
 ### Section. 4.
 
-The Stake Pool Operators shall represent themselves, the well-being of their stake pool and their delegates. 
-
-The Stake Pool Operator can be of any age without restrictions, shall be registered as such on the Cardano Blockchain and shall be identified by their pool's ID, their cold verification key and signing key.
+The Stake Pool Operators shall represent themselves, the well-being of their stake pool and their delegates. They can be of any age without restrictions, shall be registered as such on the Cardano Blockchain and shall be identified by using their pool's ID, their cold verification key and signing key, and they may vote on governance actions with multiple stake pool credentials they own.
 
 ### Section. 5.
 
-The Times, Places and Manner of holding Elections for the Constitutional Committee, shall be prescribed on-chain by the ("New constitutional committee") governance action, its metadata and the protocol parameters values of the Governance group.
+The Times, and Manner of holding Elections for the Constitutional Committee, shall be prescribed on-chain by the ("New constitutional committee") governance action, its metadata and the Governance group's protocol parameters values. 
+
+A successful election of a new constitutional committee, a constitutional change or a hard-fork delays ratification of all other governance actions until the first epoch after their enactment to give the new constitutional committee enough time to vote on current proposals, re-evaluate existing proposals with respect to a new constitution, and ensures that the in principle arbitrary semantic changes caused by enacting a hard-fork do not have unintended consequences in combination with other actions.
 
 The Constitutional Committee shall assemble at least once in every Year, and such Meeting location shall be determined unanimously by its members.
-No Constitutional Committee members shall have their cold keys in their possession during these meetings.
+No Constitutional Committee members shall have their cold keys in their possession when attending to these meetings.
 
 ## Article VII
 
-The Ratification of the governance action ("Updates to the Constitution"), shall be sufficient for the Establishment of this Constitution between the Cardano Governance Representatives so ratifying the Same.
+The Ratification of the governance action ("Updates to the Constitution"), shall be sufficient for the Establishment of this Constitution between the Cardano Governance Bodies so ratifying the Same.
 
 ## First Amendment
 
-The Cardano Governance Representatives shall not submit or vote in favor of any governance action that serves to promote the establishment of religion or prohibiting the free exercise thereof;  or abridging the freedom of speech, or of the press; or the right of the community to submit governance actions and to petition the Governance Representatives for a redress of grievances.
+The Cardano Governance Bodies shall not submit or vote in favor of any governance action that serves to promote the establishment of religion or prohibiting the free exercise thereof;  or abridging the freedom of speech, or of the press; or the right of the community to submit governance actions and to petition the Governance Bodies for a redress of grievances.
 
 ## Second Amendment
 
