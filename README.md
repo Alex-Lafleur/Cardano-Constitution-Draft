@@ -81,6 +81,10 @@ unintended consequences in combination with other actions.
 The Constitutional Committee shall assemble at least once in every Year, and such Meeting location shall be determined unanimously by its members.
 No Constitutional Committee members shall have their cold keys in their possession when attending to these meetings.
 
+### Section 6: Power and Duty of the Governance Bodies
+
+The constitutional committee shall only vote on the constitutionality of governance actions and are collectively responsible for ensuring that the Constitution is respected. 
+
 ## Article VII
 
 The Ratification of the governance action ("Updates to the Constitution"), shall be sufficient for the Establishment of this Constitution between
