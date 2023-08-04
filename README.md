@@ -83,7 +83,7 @@ No Constitutional Committee members shall have their cold keys in their possessi
 
 ### Section 6: Power and Duty of the Governance Bodies
 
-The constitutional committee shall only vote on the constitutionality of governance actions and are collectively responsible for ensuring that the Constitution is respected. 
+The Constitutional Committee shall only vote on the constitutionality of governance actions and are collectively responsible for ensuring that the Constitution is respected. 
 
 ## Article VII
 
