@@ -22,11 +22,11 @@ this Constitution for the Cardano Blockchain of the World.
 
 ## Article. 1.
 
-### Section. 1.
+### Section 1: Governance Bodies
 
 All governance powers granted hereby will be vested by the Cardano Governance Bodies, which will consist of a Constitutional Committee, Delegated Representatives and Stake Pool Operators.
 
-### Section. 2.
+### Section 2: Constitutional Committee
 
 The Constitutional Committee of the Cardano blockchain shall be composed of more than `minCCSize` number of members from anywhere around the world, chosen by the  ("New constitutional committee") governance action thereof, for the duration of `termLimits` protocol parameter; and each Committe members shall have one vote.
 
@@ -40,7 +40,7 @@ No Committee member shall, under any circumstances, share their hot and cold key
 
 No Constitutional Committee member during a ''state of no-confidence'' who was found, beyond a reasonable doubt, to be involved in what caused the community to ratify the ''Motion of no-confidence'' governance action, shall have the right to apply as a member of the next Constitutional Committee. Judgment in Cases of Impeachment shall not extend further than to removal from the current Committee and the impossibility of being part of the next one under the Cardano Blockchain. 
 
-### Section. 3.
+### Section 3: Delegated Representative
 
 The Delegated Representative shall be chosen at any time by the people of the Cardano Community, and shall be registered as such on the Cardano Blockchain. They represent themselves and those who have delegated their stake to them.
 
@@ -49,11 +49,11 @@ Any person, artificial intelligence or script can be a Delegated Representative.
 
 No Delegated Representative shall be required to identify themselves at any time in order to represent the community, and every person can choose his Delegated Representative according to their personal criteria. The trust and responsibility for this choice rests entirely with the delegates thereof.
 
-### Section. 4.
+### Section 4: Stake Pool Operator
 
 The Stake Pool Operators shall represent themselves, the well-being of their stake pool and their delegates. They can be of any age without restrictions, shall be registered as such on the Cardano Blockchain and shall be identified by using their pool's ID, their cold verification key and signing key, and they may vote on governance actions with multiple stake pool credentials they own.
 
-### Section. 5.
+### Section 5: Elections
 
 The Times, and Manner of holding Elections for the Constitutional Committee, shall be prescribed on-chain by the ("New constitutional committee") governance action, its metadata and the Governance group's protocol parameters values. 
 
