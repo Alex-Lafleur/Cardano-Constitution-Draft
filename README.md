@@ -33,8 +33,9 @@ The Constitutional Committee of the Cardano blockchain shall be composed of more
 world, chosen by the  ("New constitutional committee") governance action thereof, for the duration of `termLimits` protocol parameter;
 and each Committe members shall have one vote.
 
-Immediately after they shall be assembled in Consequence of the ("New constitutional committee") governance action enactment, and they shall
-treat each others as equally as may be during every meetings.
+Immediately after they shall be assembled at least once in every Year in Consequence of the ("New constitutional committee") governance action enactment, and they shall
+treat each others as equally as may be during every meetings. Such Meeting location shall be determined unanimously by its members. No Constitutional Committee members
+shall have their cold keys in their possession when attending to these meetings.
 
 No Person shall be a Constitutional Committee member who shall not have attained the majority according to the law and standard of their
 respective country, and been one year an ADA Holder of the Cardano Blockchain, and who shall not, when elected, hold a position of political
@@ -42,7 +43,7 @@ power in any country of the world.
 
 No Constitutional Committee member shall be anything other than a human being.
 
-No Committee member shall, under any circumstances, share their hot and cold keys with anyone, and no person shall vote on their behalf
+No Committee member shall, under any circumstances, share their cold keys with anyone, and no person shall vote on their behalf
 at any time while serving as a member of the Constitutional Committee.
 
 No Constitutional Committee member during a ''state of no-confidence'' who was found, beyond a reasonable doubt, to be involved in what
