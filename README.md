@@ -20,7 +20,7 @@ License: CC-BY-4.0
 provide for the common defence of the Network, and promote its proper Functioning for ourselves and our Posterity, do ordain and establish
 this Constitution for the Cardano Blockchain of the World.
 
-## Article. 1.
+## Article I 
 
 ### Section 1: Governance Bodies
 
