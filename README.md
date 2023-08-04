@@ -64,11 +64,11 @@ No Constitutional Committee members shall have their cold keys in their possessi
 
 ## Article VII
 
-?????
+The Ratification of the governance action ("Updates to the Constitution"), shall be sufficient for the Establishment of this Constitution between the Cardano Governance Representatives so ratifying the Same.
 
 ## First Amendment
 
-The Cardano Governance Representatives shall not submit or vote in favor of any governance action that serves to promote the establishment of a religion or prohibiting the free exercise thereof;  or abridging the freedom of speech, or of the press; or the right of the community to submit governance actions and to petition the Governance Representatives for a redress of grievances.
+The Cardano Governance Representatives shall not submit or vote in favor of any governance action that serves to promote the establishment of religion or prohibiting the free exercise thereof;  or abridging the freedom of speech, or of the press; or the right of the community to submit governance actions and to petition the Governance Representatives for a redress of grievances.
 
 ## Second Amendment
 
@@ -76,3 +76,4 @@ The enumeration in the Constitution of certain rights should not be interpreted 
 
 ## Third Amendment
 
+No person shall, at any time, through the governance system or a hard fork, take control or block, without the consent of the owner, the assets thereof, but in a manner that will be prescribed by the law of the owner's country which shall not modify the Cardano blockchain protocol in any way.
